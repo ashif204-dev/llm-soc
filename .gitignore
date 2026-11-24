@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets - never commit API keys
+.env
+*.key
+
+# Generated at runtime (recreated by `python -m src.train`)
+models/*.joblib
+models/metrics.json
+data/alerts.csv
+data/test_alerts.csv
+data/decisions.csv
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
