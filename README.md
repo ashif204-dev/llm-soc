@@ -4,6 +4,8 @@ A prototype Security Operations Center (SOC) assistant that triages security ale
 
 B.Tech major project (Phase-II prototype), School of Computer Science and Engineering, IILM University, Greater Noida, 2026-27.
 
+**Live portfolio:** https://mohammad-ashif-hussain-llm-assisted-soc-cd-d89fab3615.netlify.app
+
 ## How it works
 
 ```
